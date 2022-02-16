@@ -1,1 +1,1 @@
-# Karhunen-Lo-ve-Monte-Carlo-Method-KLMC-
+# Karhunen-Loeve-Monte-Carlo-Method-KLMC-

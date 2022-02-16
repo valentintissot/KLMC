@@ -1,1 +1,1 @@
-# Karhunen-Loeve-Monte-Carlo-Method-KLMC-
+# Karhunen Loève Monte Carlo Method (KLMC)

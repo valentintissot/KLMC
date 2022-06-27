@@ -2,6 +2,6 @@
 
 Valentin Tissot-Daguette, Princeton University
 
-Implementation of the KLMC method proposed in _Projection of Functionals and Fast Pricing of Exotic Options_.  https://arxiv.org/abs/2111.03713
+Implementation of the KLMC method in _Short Communication: Projection of Functionals and Fast Pricing of Exotic Options_.  https://doi.org/10.1137/21M1451439
 
 
